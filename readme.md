@@ -2,6 +2,8 @@
 
 This extension lets you start and stop Toggl Track timers from Raycast.
 
+![Raycast Gif showing extension](https://chrispennington.blog/images/Raycast%20Toggl%20Extension.gif)
+
 ## Dependencies
 
 - [Raycast installed](https://www.raycast.com/)
@@ -41,5 +43,3 @@ Instructions on how to set up the directory and how to connect it to Raycast
 ## Tips
 1. Add as many projects as you need by duplicating the original `google.js` file and updating the content as shown in step 5 above.
 2. If you add an alias to the script, after typing the alias, you can enter the optional `Description` field with the spacebar
-
-  
