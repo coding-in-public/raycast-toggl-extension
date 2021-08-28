@@ -1,0 +1,16 @@
+{
+  "name": "toggl-raycast-extension",
+  "version": "1.0.0",
+  "description": "Use the Toggl API inside of Raycast",
+  "main": "start-timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Chris Pennington Twitter: @cpenned",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
