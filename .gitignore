@@ -1,0 +1,5 @@
+.env
+.env.test
+.env.production
+node_modules/
+.DS_Store
