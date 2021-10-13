@@ -9,7 +9,7 @@
 // @raycast.icon ./icons/toggl.png
 
 // Documentation:
-// @raycast.author Chris Pennington
+// @raycast.author Chris Pennington @cpenned on Twitter
 
 import dotenv from 'dotenv'
 const result = dotenv.config()

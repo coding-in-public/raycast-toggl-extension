@@ -11,13 +11,13 @@
 
 // Documentation:
 // @raycast.description Start Google Timer
-// @raycast.author Chris Pennington
+// @raycast.author Chris Pennington @cpenned on Twitter
 
 import {startTimer} from './start-timer.js'
 
 const PROJECT_NAME = 'Google'
 const PROJECT_ID = 157063009;
 
-const description = process.argv.slice(2);
+const description = process.argv[2];
 
 startTimer(PROJECT_ID, PROJECT_NAME, description);
